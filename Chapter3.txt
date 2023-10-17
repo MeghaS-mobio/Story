@@ -1,0 +1,1 @@
+A master-detail relationship defines the relationship between the parent and the child. The master table defines the parent relation and the detail defines the child relation.
